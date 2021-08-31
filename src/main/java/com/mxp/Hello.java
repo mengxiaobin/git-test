@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("2222");
         System.out.println("abc");
         System.out.println("dev11111111111");
+        System.out.println("我在测试git的push操作");
 
     }
 }
