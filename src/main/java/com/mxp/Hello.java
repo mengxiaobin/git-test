@@ -10,6 +10,7 @@ public class Hello {
         System.out.println("我在测试git的push操作");
         System.out.println("我在远程改了东西");
         System.out.println("111111");
+        System.out.println("22222222222");
 
     }
 }
